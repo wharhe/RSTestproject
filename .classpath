@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/Apache POIs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/Apache POIs/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/Apache POIs/itextpdf-5.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/Apache POIs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/Apache POIs/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/Apache POIs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/Apache POIs/poi-3.13-beta1-20150723.jar"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/Apache POIs/poi-examples-3.13-beta1-20150723.jar"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/Apache POIs/poi-excelant-3.13-beta1-20150723.jar"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/Apache POIs/poi-ooxml-3.13-beta1-20150723.jar"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/Apache POIs/poi-ooxml-schemas-3.13-beta1-20150723.jar"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/Apache POIs/poi-scratchpad-3.13-beta1-20150723.jar"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/Apache POIs/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/jar Folder/jars for setting up eclipse/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/e_wha/OneDrive/Documents/Jar Folder/jars for setting up eclipse/selenium-server-standalone-2.53.1(1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
